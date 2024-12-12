@@ -11,7 +11,8 @@ package assignments.ex1;
  * “b2”, “0b1”, “123b”, “1234b11”, “3b3”, “-3b5”, “3 b4”, “GbG”, "", null,
  * You should implement the following static functions:
  */
-public class Ex1 {
+public class { // יש לי פטור מהמטלה, מאושר ע״י בועז
+        // תאיר היזמי- ת.ז 325471498
     /**
      * Convert the given number (num) to a decimal representation (as int).
      * If the given number is not in a valid format returns -1.
